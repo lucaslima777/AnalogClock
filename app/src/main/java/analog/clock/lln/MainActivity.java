@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
     private void runThread() {
         new Thread() {
             public void run() {
